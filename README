@@ -7,6 +7,10 @@ Documentation:
 Using Firebase and App Engine Standard Environment in an Android App
 https://cloud.google.com/solutions/mobile/firebase-app-engine-android-studio
 
-
 Authenticating Your Client
 https://developers.google.com/android/guides/client-auth
+
+Reglas de base de datos:
+https://firebase.google.com/docs/database/security/quickstart
+  - Sublinks a información sobre cómo proteger tus datos usando reglas de seguridad.
+  - Sublinks a más información sobre cómo especificar índices usando reglas.
